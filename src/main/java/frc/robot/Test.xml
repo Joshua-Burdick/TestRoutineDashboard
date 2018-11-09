@@ -1,0 +1,12 @@
+<routine>    
+    <list>
+        <log text = "Insert Log info here"/>
+        <setVelocity value = 12/>
+        <wait time = 5000/>
+        <stop/>
+        <goDistance distance = 1000>
+        <zeroEncoders/>
+        <setVoltage value = 1/>
+        <setPercentage value = 5/>
+    </list>
+</routine>
